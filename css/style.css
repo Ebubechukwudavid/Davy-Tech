@@ -1421,12 +1421,8 @@ h6 {
   font-size: 36px;
   margin-bottom: 48px;
 }
-.contact-section .map-wrapper {
-  min-height: 396px;
-  background: #f9f9f9;
-  margin-right: 90px;
-  border-radius: 10px;
-}
+
+
 .contact-section form > div {
   margin-bottom: 0 !important;
   margin-top: 0 !important;
